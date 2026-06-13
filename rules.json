@@ -1,0 +1,52 @@
+{
+  "Product Quality": [
+    "quality",
+    "defective",
+    "broken",
+    "durable",
+    "excellent product"
+  ],
+
+  "Delivery Experience": [
+    "shipping",
+    "delivery",
+    "late",
+    "courier",
+    "tracking"
+  ],
+
+  "Customer Support": [
+    "support",
+    "agent",
+    "service",
+    "help"
+  ],
+
+  "Pricing": [
+    "price",
+    "discount",
+    "expensive",
+    "cheap"
+  ],
+
+  "App/Website Usability": [
+    "website",
+    "app",
+    "checkout",
+    "login"
+  ],
+
+  "Packaging": [
+    "package",
+    "packaging",
+    "box",
+    "wrapped"
+  ],
+
+  "Return Process": [
+    "refund",
+    "return",
+    "replacement",
+    "exchange"
+  ]
+}
